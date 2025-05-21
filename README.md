@@ -2,6 +2,10 @@
 
 Bienvenue sur **HackStore**, un projet front-end de boutique en ligne dédiée aux gadgets de cybersécurité. Ce projet a été réalisé dans le cadre du module de Développement d'Applications Web à l'Université Mouloud Mammeri de Tizi-Ouzou.
 
+[Voir le site en ligne]([https://anistezkratt.github.io](https://anistezkratt.github.io))
+
+[Valider avec W3C]([https://validator.w3.org/nu/?doc=https%3A%2F%2Fanistezkratt.github.io%2F](https://validator.w3.org/nu/?doc=https%3A%2F%2Fanistezkratt.github.io%2Findex.html))
+
 ## Objectif
 
 Créer un site e-commerce responsive, moderne, et optimisé SEO (référencement), en utilisant uniquement HTML, CSS et JavaScript, sans back-end.
@@ -35,7 +39,7 @@ Créer un site e-commerce responsive, moderne, et optimisé SEO (référencement
 ## Simulations Backend
 
 Les données sont chargées dynamiquement via `fetch()` depuis des fichiers `.json`. Pour que cela fonctionne :
-**Utiliser un live server local** (sinon le chargement `fetch()` échoue à cause des restrictions CORS).
+➡**Utiliser un live server local** (sinon le chargement `fetch()` échoue à cause des restrictions CORS).
 
 ## Bonnes pratiques SEO et d'accessibilité
 
