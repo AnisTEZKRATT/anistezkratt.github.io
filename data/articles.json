@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Inside the Flipper Zero: A Multi-Tool for Hackers",
+    "excerpt": "Flipper Zero is gaining popularity among ethical hackers. Here's what makes it so powerful.",
+    "content": "Flipper Zero is a portable multi-tool for pentesters and hardware enthusiasts. It can emulate RFID/NFC cards, read sub-GHz signals, control infrared devices, and more. Ethical hackers use it for quick access control testing, signal analysis, and hardware reconnaissance. Its open-source firmware makes it highly customizable, allowing users to add modules and scripts. Despite concerns from regulators, when used responsibly, Flipper Zero is a versatile tool for legitimate security testing and research.",
+    "author": "GadgetSec Review",
+    "date": "2025-02-05",
+    "image": "../images/blog/flipper-zero.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Raspberry Pi for Ethical Hacking Projects",
+    "excerpt": "Turn a Raspberry Pi into a powerful hacking toolkit with these simple setups.",
+    "content": "Raspberry Pi boards can be transformed into compact ethical hacking tools. With Kali Linux or Parrot OS installed, they become capable of running tools like Nmap, Wireshark, or Snort. Add-ons like USB adapters and GPIO extensions allow advanced physical access tests or wireless audits. These budget-friendly devices are perfect for building rogue APs, portable pentesting rigs, or even remote access simulation environments.",
+    "author": "HackHardware Blog",
+    "date": "2025-03-12",
+    "image": "../images/blog/raspberry-pi-hacking.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Social Engineering: Hacking the Human Layer",
+    "excerpt": "Tech isn't the only attack vector — social engineering can be even more effective.",
+    "content": "Social engineering involves manipulating people into revealing confidential information or performing unsafe actions. Common techniques include phishing, pretexting, baiting, and tailgating. Ethical hackers simulate these tactics to test human awareness and train staff. Tools like the Social-Engineer Toolkit (SET) can automate phishing campaigns or clone login pages. Success depends on psychology more than code, making social engineering a unique and essential discipline in ethical hacking.",
+    "author": "Red Team Playbook",
+    "date": "2025-03-29",
+    "image": "../images/blog/social-engineering.webp"
+  },
+  {
+    "id": 4,
+    "title": "Exploring HID Attacks with Digispark Devices",
+    "excerpt": "These tiny microcontrollers can simulate keyboards to automate powerful payloads.",
+    "content": "Digispark USB devices are affordable, Arduino-compatible boards that can be programmed to act as Human Interface Devices (HIDs). Ethical hackers use them to create automated attack scripts that inject commands when plugged into a system. Compared to Rubber Ducky, Digispark is more customizable and budget-friendly, though it has fewer features. With proper scripting, they can execute reverse shells, exfiltrate data, or disable defenses — making them valuable tools for red team simulations.",
+    "author": "MicroHack Tech",
+    "date": "2025-04-07",
+    "image": "../images/blog/digispark-hid.jpg"
+  },
+  {
+    "id": 5,
+    "title": "What Are Dev Boards and Why Are They Useful for Hacking?",
+    "excerpt": "Learn how tiny development boards like Raspberry Pi and Arduino are powerful tools in the hands of ethical hackers.",
+    "content": "Development boards, or dev boards, are small, affordable computers or microcontrollers used for learning, prototyping, and building electronic projects. Popular examples include the **Raspberry Pi**, **Arduino**, **ESP32**, and **Digispark**. Originally made for hobbyists and students, these boards have become essential tools in ethical hacking.\n\nEthical hackers use dev boards to test physical security, simulate attacks, and automate payload delivery. For example, a Raspberry Pi can run full Linux distributions like Kali Linux, allowing it to function as a portable hacking toolkit. It can scan networks, launch attacks, or act as a rogue access point. Devices like Digispark or Arduino can emulate keyboards and inject malicious commands when plugged into a system — a tactic used in HID attacks.\n\nThese boards are small, cheap, and easy to program, making them perfect for red team operations, penetration testing labs, or even building custom hardware exploits. With the right setup, dev boards can teach you both electronics and cybersecurity in a hands-on, practical way.",
+    "author": "Security Career Lab",
+    "date": "2025-01-10",
+    "image": "../images/blog/dev-boards-hacking.jpg"
+  }  
+]

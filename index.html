@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="HackStore - Your trusted source for ethical hacking gadgets and cybersecurity tools">
+    <meta name="keywords" content="ethical hacking, cybersecurity, hacking gadgets, security tools">
+    <title>HackStore - Ethical Hacking Gadgets</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.ico">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/logo.png" alt="HackStore Logo" class="logo-img">
+                </a>
+            </div>
+            <button class="mobile-menu-btn" aria-label="Toggle menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="content/products.html">Products</a></li>
+                <li><a href="content/blog.html">Blog</a></li>
+                <li><a href="content/about.html">About</a></li>
+                <li><a href="content/contact.html">Contact</a></li>
+                <li><a href="content/cart-checkout.html" class="cart-link">Cart <span class="cart-count">0</span></a></li>
+                <li><a href="content/login.html" class="login-btn">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Welcome to HackStore</h1>
+                <p>Your trusted source for ethical hacking gadgets and cybersecurity tools</p>
+                <a href="content/products.html" class="cta-button">Explore Products</a>
+            </div>
+        </section>
+
+        <section class="featured-products">
+            <h2>Featured Products</h2>
+            <div class="products-grid" id="featured-products">
+                <!--featured.json -->
+            </div>
+        </section>
+
+        <section class="categories">
+            <h2>Browse by Category</h2>
+            <div class="categories-grid">
+                <a href="content/products.html?category=network" class="category-card">
+                    <h3>Network Security</h3>
+                </a>
+                <a href="content/products.html?category=wireless" class="category-card">
+                    <h3>Wireless Tools</h3>
+                </a>
+                <a href="content/products.html?category=forensics" class="category-card">
+                    <h3>Digital Forensics</h3>
+                </a>
+                <a href="content/products.html?category=accessories" class="category-card">
+                    <h3>Accessories</h3>
+                </a>
+
+                <a href="content/products.html?category=development" class="category-card">
+                    <h3>Microcontrollers & Dev Boards</h3>
+                </a>
+
+                <a href="content/products.html?category=multitool" class="category-card">
+                    <h3>Hacker Multi-Tools</h3>
+                </a>
+            </div>
+        </section>
+
+        <section class="newsletter">
+            <h2>Stay Updated</h2>
+            <p>Subscribe to our newsletter for the latest in cybersecurity news and product updates</p>
+            <form id="newsletter-form" class="newsletter-form">
+                <div class="form-group">
+                    <input type="email" id="newsletter-email" placeholder="Enter your email" required>
+                    <button type="submit" class="submit-btn">Subscribe</button>
+                </div>
+                <div class="form-error" id="newsletter-error"></div>
+                <div class="form-success" id="newsletter-success"></div>
+            </form>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>HackStore</h3>
+                <p>Your trusted source for ethical hacking gadgets and cybersecurity tools.</p>
+            </div>
+            <div class="footer-section">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="content/products.html">Products</a></li>
+                    <li><a href="content/blog.html">Blog</a></li>
+                    <li><a href="content/about.html">About Us</a></li>
+                    <li><a href="content/contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Contact Us</h4>
+                <p>Email: info@hackstore.com</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 HackStore — Ethical hacking hardware and cybersecurity tools. Products are intended for legal and ethical use only. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

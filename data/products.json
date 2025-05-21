@@ -1,0 +1,227 @@
+[
+    {
+      "id": 1,
+      "name": "WiFi Pineapple",
+      "price": 199.99,
+      "image": "images/products/wifi-pineapple.png",
+      "category": "wireless",
+      "quantity": 100,
+      "title": "Advanced WiFi Testing Device",
+      "description": "Used for wireless network auditing, the WiFi Pineapple is a powerful tool for conducting man-in-the-middle attacks and analyzing wireless traffic."
+    },
+    {
+      "id": 2,
+      "name": "USB Rubber Ducky",
+      "price": 49.99,
+      "image": "images/products/usb-rubber-ducky.webp",
+      "category": "accessories",
+      "quantity": 100,
+      "title": "Keystroke Injection Tool",
+      "description": "Disguised as a USB drive, this device automates keystrokes at lightning speed to execute payloads on unsuspecting systems."
+    },
+    {
+      "id": 3,
+      "name": "Hak5 LAN Turtle",
+      "price": 79.99,
+      "image": "images/products/lan-turtle.png",
+      "category": "network",
+      "quantity": 100,
+      "title": "Covert Remote Access Gadget",
+      "description": "This discreet Ethernet adapter provides persistent remote access, DNS spoofing, packet captures, and man-in-the-middle capabilities."
+    },
+    {
+      "id": 4,
+      "name": "Proxmark3",
+      "price": 299.99,
+      "image": "images/products/proxmark3.png",
+      "category": "forensics",
+      "quantity": 100,
+      "title": "RFID/NFC Hacking Toolkit",
+      "description": "A powerful tool for RFID analysis, capable of sniffing, reading, and emulating a wide range of RFID and NFC cards."
+    },
+    {
+      "id": 5,
+      "name": "ChameleonMini",
+      "price": 49.99,
+      "image": "images/products/chameleon-mini.png",
+      "category": "accessories",
+      "quantity": 100,
+      "title": "Portable RFID Emulator",
+      "description": "An open-source device for RFID emulation and manipulation, useful for penetration testing and card cloning."
+    },
+    {
+      "id": 6,
+      "name": "HackRF One",
+      "price": 299.00,
+      "image": "images/products/hackrf-one.png",
+      "category": "wireless",
+      "quantity": 100,
+      "title": "Software Defined Radio (SDR)",
+      "description": "A powerful SDR platform that allows transmission and reception of radio signals from 1 MHz to 6 GHz. Ideal for RF research."
+    },
+    {
+      "id": 7,
+      "name": "Flipper Zero",
+      "price": 169.65,
+      "image": "images/products/flipper-zero.png",
+      "category": "multitool",
+      "quantity": 100,
+      "title": "Hacker’s Swiss Army Knife",
+      "description": "A portable multi-tool for pentesters and geeks, supporting RFID, NFC, IR, GPIO, and radio protocols."
+    },
+    {
+      "id": 8,
+      "name": "Alfa AWUS036ACH Wi-Fi Adapter",
+      "price": 65.99,
+      "image": "images/products/wifi-adapter.png",
+      "category": "wireless",
+      "quantity": 100,
+      "title": "Dual-Band WiFi Adapter",
+      "description": "High-gain USB Wi-Fi adapter with monitor mode and packet injection support, perfect for wireless pentesting."
+    },
+    {
+      "id": 9,
+      "name": "Raspberry Pi 4 Kit",
+      "price": 129.99,
+      "image": "images/products/kit-raspberry-pi-4.png",
+      "category": "development",
+      "quantity": 100,
+      "title": "Mini Computer for Projects",
+      "description": "A compact yet powerful kit used in development, automation, and hacking projects. Supports full Linux environments."
+    },
+    {
+      "id": 10,
+      "name": "Bus Pirate v4",
+      "price": 39.99,
+      "image": "images/products/bus-pirate.png",
+      "category": "forensics",
+      "quantity": 100,
+      "title": "Serial Protocol Analyzer",
+      "description": "A universal bus interface that supports UART, SPI, I2C, and other serial protocols, great for embedded debugging."
+    },
+    {
+      "id": 11,
+      "name": "ESP32 Dev Board",
+      "price": 14.99,
+      "image": "images/products/esp32.webp",
+      "category": "development",
+      "quantity": 100,
+      "title": "WiFi & Bluetooth Microcontroller",
+      "description": "A low-cost microcontroller with WiFi and Bluetooth for DIY IoT and hacking projects. Ideal for wireless security experiments."
+    },
+    {
+      "id": 12,
+      "name": "Yard Stick One",
+      "price": 99.99,
+      "image": "images/products/yard-stick-one.png",
+      "category": "wireless",
+      "quantity": 100,
+      "title": "Sub-GHz Wireless Transceiver",
+      "description": "Useful for capturing and transmitting signals in the 300-928 MHz range, great for wireless reverse engineering."
+    },
+    {
+      "id": 13,
+      "name": "Packet Squirrel",
+      "price": 69.99,
+      "image": "images/products/packet-squirrel.webp",
+      "category": "network",
+      "quantity": 100,
+      "title": "Covert Network Attack Tool",
+      "description": "A stealthy network implant that enables man-in-the-middle attacks, packet captures, and remote access over LAN. Ideal for pen testers needing a plug-and-play tool for covert operations."
+      },
+    {
+      "id": 14,
+      "name": "Ubertooth One",
+      "price": 119.85,
+      "image": "images/products/ubertooth-one.png",
+      "category": "wireless",
+      "quantity": 100,
+      "title": "Bluetooth Sniffer",
+      "description": "Open-source Bluetooth monitoring device for sniffing and analyzing Bluetooth communications."
+    },
+    {
+      "id": 15,
+      "name": "Keysy RFID Duplicator",
+      "price": 29.99,
+      "image": "images/products/keysy.webp",
+      "category": "forensics",
+      "quantity": 100,
+      "title": "RFID Cloning Tool",
+      "description": "Clone access cards easily. Supports 125 kHz RFID tags and simplifies basic access control research."
+    },
+
+    {
+      "id": 17,
+      "name": "LAN Tap Pro",
+      "price": 39.99,
+      "image": "images/products/lan-tap-pro.webp",
+      "category": "network",
+      "quantity": 100,
+      "title": "Passive Ethernet Tap",
+      "description": "A simple and effective tool for passively capturing Ethernet traffic without detection or interference."
+    },
+    {
+      "id": 18,
+      "name": "BeagleBone Black",
+      "price": 64.99,
+      "image": "images/products/beaglebone-black.png",
+      "category": "development",
+      "quantity": 100,
+      "title": "Open Hardware Development Board",
+      "description": "An open-source single-board computer ideal for embedded development and hardware testing."
+    },
+    {
+      "id": 19,
+      "name": "Alpha Loop Antenna Kit",
+      "price": 49.94,
+      "image": "images/products/alpha-loop.png",
+      "category": "wireless",
+      "quantity": 100,
+      "title": "Signal Reception Tool",
+      "description": "A high-gain loop antenna optimized for improving signal reception in SDR and wireless hacking scenarios."
+    },
+    {
+      "id": 20,
+      "name": "Digispark USB Dev Board",
+      "price": 6.99,
+      "image": "images/products/digispark.png",
+      "category": "accessories",
+      "quantity": 100,
+      "title": "Mini USB Microcontroller",
+      "description": "Tiny, Arduino-compatible board often used for HID-based attacks and automation scripts."
+    },
+  
+  {
+    "id": 21,
+    "name": "P4wnP1 A.L.O.A.",
+    "price": 79.99,
+    "image": "images/products/p4wnp1.png",
+    "category": "multitool",
+    "quantity": 100,
+    "title": "Raspberry Pi Zero-based Attack Platform",
+    "description": "A powerful HID attack tool based on Raspberry Pi Zero that can simulate keyboards, create rogue Wi-Fi APs, and host payloads for social engineering attacks."
+  },
+  {
+    "id": 22,
+    "name": "Plunder Bug",
+    "price": 59.99,
+    "image": "images/products/plunder-bug.png",
+    "category": "multitool",
+    "quantity": 100,
+    "title": "Network Sniffer & Debugger",
+    "description": "A compact LAN tap and sniffer that lets you monitor and capture network traffic using a mobile phone or USB-C laptop."
+  },
+  {
+    "id": 23,
+    "name": "O.MG Keylogger Cable",
+    "price": 169.99,
+    "image": "images/products/omg-keylogger.webp",
+    "category": "multitool",
+    "quantity": 100,
+    "title": "Stealthy Keylogging Cable",
+    "description": "Looks like a regular USB charging cable, but logs keystrokes, supports remote access, payloads, and real-time command execution."
+  }
+  
+  ]
+  
+  

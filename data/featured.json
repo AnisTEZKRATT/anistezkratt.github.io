@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "WiFi Pineapple",
+    "price": 199.99,
+    "image": "images/products/wifi-pineapple.png",
+    "category": "wireless",
+    "quantity": 100,
+    "title": "Advanced WiFi Testing Device",
+    "description": "Used for wireless network auditing, the WiFi Pineapple is a powerful tool for conducting man-in-the-middle attacks and analyzing wireless traffic."
+  },
+
+  {
+    "id": 7,
+    "name": "Flipper Zero",
+    "price": 169.54,
+    "image": "images/products/flipper-zero.png",
+    "category": "multitool",
+    "quantity": 100,
+    "title": "Hacker's Swiss Army Knife",
+    "description": "A portable multi-tool for pentesters and geeks, supporting RFID, NFC, IR, GPIO, and radio protocols."
+  },
+
+  {
+    "id": 9,
+    "name": "Raspberry Pi 4 Kit",
+    "price": 129.99,
+    "image": "images/products/kit-raspberry-pi-4.png",
+    "category": "development",
+    "quantity": 100,
+    "title": "Mini Computer for Projects",
+    "description": "A compact yet powerful kit used in development, automation, and hacking projects. Supports full Linux environments."
+  }
+]
