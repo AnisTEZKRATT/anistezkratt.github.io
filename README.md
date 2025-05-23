@@ -1,5 +1,7 @@
 # HackStore – Mini Site E-Commerce
 
+<img src="images/logo.png" alt="Logo HackStore" width="150" />
+
 Bienvenue sur **HackStore**, un projet front-end de boutique en ligne dédiée aux gadgets de cybersécurité. Ce projet a été réalisé dans le cadre du module de Développement d'Applications Web à l'Université Mouloud Mammeri de Tizi-Ouzou.
 
 [Voir le site en ligne](https://anistezkratt.github.io/index.html)
