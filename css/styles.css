@@ -400,6 +400,7 @@ body {
         padding: 1rem;
         text-align: center;
         border-radius: 10px;
+        border: var(--border-color) solid 3px;
     }
 
     .nav-links.active {
